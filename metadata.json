@@ -1,0 +1,6 @@
+{
+  "name": "Battle of Jantar Mantar",
+  "description": "A stylized 2D side-scrolling stealth-parkour chase and escape action game set in Jantar Mantar, New Delhi. Choose between Police or Protesters across three atmospheric levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
